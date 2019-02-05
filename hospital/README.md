@@ -1,5 +1,5 @@
 # Hospital Billing Estimation
-This work is adapted from, and inspired by Heinz course **Applied Analytics: the Machine Learning Pipeline** [95-845](https://api.heinz.cmu.edu/courses_api/course_detail/95-845).  
+This work is adapted from, and inspired by work performed in the Heinz course **Applied Analytics: the Machine Learning Pipeline** [95-845](https://api.heinz.cmu.edu/courses_api/course_detail/95-845).  
 Much of the data modeled is from the Medical Information Mart for Intensive Care II [MIMIC](https://mimic.physionet.org/about/mimic/) database. 
 
 ## NN_Regression
