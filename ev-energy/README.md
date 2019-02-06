@@ -4,3 +4,8 @@ This is a group project for CMU's Heinz college Managing Analytics Projects [95-
 The intent for the project is to practice following a robust, systematic approach in "initiating, delivering, and evaluating analytics projects."  
 ## Topic
 The goal for the research is to estimate impacts of electric vehicle (EV) adoption in the United States. The scope begins with understanding the sensitivity between EV market adoption and energy providers' capacity to support additional energy requirements demanded by EV usage. Dependent on data availability, the scope might increase into environmental and financial impacts as EV adoption increases.
+
+## Resources
+[US Energy Information Administration](https://www.eia.gov/electricity)  
+[US Dept of Energy: EERE-AFDC](https://afdc.energy.gov/data)  
+[US Dept of Transportation:  Bureau of Transportation Statistics](https://www.bts.gov/)
